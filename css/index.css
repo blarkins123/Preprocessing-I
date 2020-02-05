@@ -138,7 +138,7 @@ body {
 }
 .topnav{
  text-align: right;
- justify-content: space-evenly;
+ justify-content: space-between;
  font-size: 20px;
 }
 img{
@@ -155,11 +155,15 @@ h2{
   padding-right: 50%;
 }
 .good-at{
-  text-align: right;
+  padding-left: 75%;
+  justify-content: flex-start;
 }
 footer{
   text-align: center;
 }
 p{
   font-size: larger;
+}
+ul{
+  list-style: inside;
 }
