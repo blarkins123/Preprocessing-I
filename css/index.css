@@ -132,5 +132,25 @@ table {
 }
 html,
 body {
-  height: 100%;
+  background-color: silver;
+  margin: 20px 40px 20px 40px;
+  
+}
+.topnav{
+ text-align: right;
+ justify-content: space-evenly;
+ font-size: 20px;
+}
+img{
+  width: 300px;
+  height: auto;
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 30px;
+}
+footer{
+  text-align: center;
 }
