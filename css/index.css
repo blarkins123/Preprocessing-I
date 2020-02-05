@@ -132,8 +132,8 @@ table {
 }
 html,
 body {
-  background-color: silver;
-  margin: 20px 40px 20px 40px;
+  background-color: #fdfcf1;
+  margin: 20px 100px 20px 100px;
   
 }
 .topnav{
@@ -146,11 +146,20 @@ img{
   height: auto;
 }
 h1{
-  font-size: 40px;
+  font-size: 50px;
 }
 h2{
   font-size: 30px;
 }
+.about{
+  padding-right: 50%;
+}
+.good-at{
+  text-align: right;
+}
 footer{
   text-align: center;
+}
+p{
+  font-size: larger;
 }
